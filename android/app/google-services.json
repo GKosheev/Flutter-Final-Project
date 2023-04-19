@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "449813023017",
+    "project_id": "tinder-test-app-bcc65",
+    "storage_bucket": "tinder-test-app-bcc65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449813023017:android:38b3f27ecc22c0f0600f38",
+        "android_client_info": {
+          "package_name": "kaleo.chat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449813023017-k3qrrgqf7igjjf1991i3s9agumkuvi1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Gija015d-8-aKnod64JvluM5NLzOzpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449813023017-k3qrrgqf7igjjf1991i3s9agumkuvi1e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "449813023017-4vh2a659ku9ks2jsvue2nn6odnq4eanj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kaleo.chat.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
